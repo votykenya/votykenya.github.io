@@ -1,0 +1,44 @@
+/*
+ * Navigation Bar
+ */
+#brand {
+    color: white;
+}
+
+#nav {
+    background-color:  #ff5722;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+#activeLink {
+    color: white;
+}
+
+/*
+ * Footer
+ */
+
+#footer {
+    background-color:  #ff5722;
+}
+
+.theme-color {
+     color: #ff5722;
+ }
+
+ .btn-submit {
+     margin-bottom: 10px;
+     background-color: #ff5722;
+     color: white;
+ }
+
+.material-icons.orange { color: #ff5722; }
+
+.services {
+    padding: 40px 20px 20px 20px;
+    margin-bottom: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+}

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538e4fca-a147-4701-aad1-a1d74daf3d29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/background.html" beforeDir="false" afterPath="$PROJECT_DIR$/background.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mission_and_vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/mission_and_vision.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mission_and_vision.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="103" column="127" selection-start-line="103" selection-start-column="127" selection-end-line="103" selection-end-column="127" />
+            <state relative-caret-position="105">
+              <caret line="98" column="72" selection-start-line="98" selection-start-column="72" selection-end-line="98" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="1085" />
     <option name="height" value="1055" />
@@ -127,15 +126,15 @@
       <workItem from="1543422089773" duration="4035000" />
       <workItem from="1543426873195" duration="126000" />
       <workItem from="1543427014818" duration="2367000" />
-      <workItem from="1543473588147" duration="4295000" />
+      <workItem from="1543473588147" duration="4392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12394000" />
+    <option name="totallyTimeSpent" value="12491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1085" height="1055" extended-state="4" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24881391" />
@@ -150,7 +149,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32785088" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32785088" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -243,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mission_and_vision.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="103" column="127" selection-start-line="103" selection-start-column="127" selection-end-line="103" selection-end-column="127" />
+        <state relative-caret-position="105">
+          <caret line="98" column="72" selection-start-line="98" selection-start-column="72" selection-end-line="98" selection-end-column="72" />
         </state>
       </provider>
     </entry>

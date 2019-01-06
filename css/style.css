@@ -49,11 +49,17 @@ main {
     border: 1px solid rgba(0, 0, 0, 0.18);
 }
 
+.bottom-fixed-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
 @media (max-width: 576px) {
-    .bottom-fixed-footer {
-        position: fixed;
-        height: 100px;
-        bottom: 0;
-        width: 100%;
-    }
+}
+
+@media (max-width: 768px) {
+}
+
+@media (min-width: 992px) {
 }

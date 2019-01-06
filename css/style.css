@@ -55,10 +55,20 @@ main {
     width: 100%;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 576px) {
+    .small-bottom-fixed-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
+    .mid-bottom-fixed-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 }
 
 @media (min-width: 992px) {

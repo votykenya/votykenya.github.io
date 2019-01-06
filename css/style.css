@@ -60,7 +60,7 @@ main {
     width: 100%;
 }
 
-@media (min-width: 345px) {
+@media (min-width: 355px) {
     .smaller-bottom-fixed-footer {
         position: fixed;
         bottom: 0;

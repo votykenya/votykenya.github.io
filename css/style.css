@@ -77,4 +77,9 @@ main {
 }
 
 @media (min-width: 992px) {
+    .large-bottom-fixed-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 }

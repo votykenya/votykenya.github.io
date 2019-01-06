@@ -60,6 +60,15 @@ main {
     width: 100%;
 }
 
+@media (min-width: 345px) {
+    .smaller-bottom-fixed-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+
 @media (min-width: 576px) {
     .small-bottom-fixed-footer {
         position: fixed;

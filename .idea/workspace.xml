@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538e4fca-a147-4701-aad1-a1d74daf3d29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/20180924_122942.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/_pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/_pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/_pic1_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
+            <state relative-caret-position="211">
+              <caret line="181" column="54" selection-start-line="181" selection-start-column="54" selection-end-line="181" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -125,12 +116,12 @@
       <workItem from="1543427014818" duration="2367000" />
       <workItem from="1543473588147" duration="9834000" />
       <workItem from="1546684751408" duration="6033000" />
-      <workItem from="1546750232224" duration="15342000" />
+      <workItem from="1546750232224" duration="17519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39308000" />
+    <option name="totallyTimeSpent" value="41485000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
+        <state relative-caret-position="211">
+          <caret line="181" column="54" selection-start-line="181" selection-start-column="54" selection-end-line="181" selection-end-column="54" />
         </state>
       </provider>
     </entry>
